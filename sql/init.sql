@@ -1,8 +1,8 @@
 -- 创建数据库
-CREATE DATABASE IF NOT EXISTS admin_system;
+CREATE DATABASE IF NOT EXISTS 01;
 
 -- 使用数据库
-USE admin_system;
+USE 01;
 
 -- 创建用户表
 CREATE TABLE IF NOT EXISTS users (
