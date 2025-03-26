@@ -22,7 +22,7 @@
    ```
 4. 配置数据库
 
-   - 在 MySQL 中创建名为 `admin_system` 的数据库
+   - 在 MySQL 中创建名为 `01` 的数据库
    - 修改数据库配置文件 `config/db.js`：
 
    ```javascript
@@ -30,7 +30,7 @@
        host: 'localhost',      // 数据库地址
        user: 'root',          // 数据库用户名
        password: '123456',    // 数据库密码
-       database: 'admin_system' // 数据库名称
+       database: '01' // 数据库名称
    }
    ```
 5. 启动服务器
